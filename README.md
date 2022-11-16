@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Languages I Started Learning:
+### :hammer_and_wrench: Frameworks I Started Learning:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
