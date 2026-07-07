@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Hi there, I'm At0mit0s! 👋</h1>
-  <h3>Computer Engineering Student @ BME</h3>
+
+<img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></img>
+
+# Hi there, I'm At0mit0s! 👋
+### Computer Engineering Student @ BME
 </div>
 
 ---
@@ -27,10 +30,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=At0mit0s&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=At0mit0s&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="160" />
-</p>
